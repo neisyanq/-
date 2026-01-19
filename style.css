@@ -2732,4 +2732,18 @@ span {
         width: 100%; /* Tombol filter memanjang ke bawah */
         text-align: center;
     }
+
+}
+
+
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  content-visibility: auto;
+}
+
+picture {
+  display: block;
 }
